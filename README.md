@@ -1,6 +1,6 @@
 # masakudouのweb履歴書
 
-![自画像](https://masakudou.github.io/my_profile/myself.jpg "自画像")
+[![自画像](https://masakudou.github.io/my_profile/myself.jpg "自画像")](https://github.com/masakudou/my_profile/blob/main/myself.jpg)
 
 ---
 
