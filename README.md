@@ -207,7 +207,7 @@
 
 ## 職務経歴
 - 以前は長々と書いていましたが、短くしました。
-  - [職務経歴書として提出する用の詳細な書面はこちら](https://masakudou.github.io/my_profile/resume/index.md)
+  - [職務経歴書として提出する用の詳細な書面はこちら](https://github.com/masakudou/my_profile/blob/main/resume/index.md)
 
 ### 正社員としての経歴
 #### 株式会社MIXI - 全般(2020/02 〜 現在)
